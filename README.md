@@ -6,6 +6,7 @@ Os *templates* podem ser encontrados no arquivo nomeado "Templates.xlsx".
 
 - A pasta "**Template B - PR**" contém o *template* apresentado no **Apêndice B** do trabalho;
 - A pasta "**Template C - PI**" contém o *template* apresentado no **Apêndice C** do trabalho;
-- A pasta "**Template D - Práticas e ações**" contém o *template* apresentado no **Apêndice D** do trabalho;
-- A pasta "**Template E - Causas raízes**" contém o *template* apresentado no **Apêndice E** do trabalho.
+- A pasta "**Template D - D**" contém o *template* apresentado no **Apêndice D** do trabalho;
+- A pasta "**Template E - Práticas e ações**" contém o *template* apresentado no **Apêndice E** do trabalho;
+- A pasta "**Template F - Causas raízes**" contém o *template* apresentado no **Apêndice F** do trabalho.
 
