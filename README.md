@@ -1,4 +1,4 @@
-Neste repositório podem ser encontrados os templates dos apêndices B, C, D e E do trabalho intitulado "**Abordagem de melhoria contínua da qualidade de produto em projetos ágeis de software baseada no uso de métricas e aderete à cultura *Kaizen***".
+Neste repositório podem ser encontrados os templates dos apêndices B, C, D, E e F do trabalho intitulado "**Abordagem de melhoria contínua da qualidade de produto em projetos ágeis de software baseada no uso de métricas e aderete à cultura *Kaizen***".
 
 ### Onde posso encontrar os *templates*?
 
